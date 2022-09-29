@@ -9,6 +9,7 @@ h3{
 .box{
     border: 4px solid black;
     height: 220px;
+    background-color: lavender;
 }
 .box form{
     align-items: center;
